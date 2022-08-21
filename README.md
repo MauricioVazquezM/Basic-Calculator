@@ -1,6 +1,6 @@
 # Basic Calculator
 
-![image](https://img.freepik.com/vector-gratis/diseno-etiqueta-calculadora-aislada_1308-60994.jpg)
+<center>![image](https://img.freepik.com/vector-gratis/diseno-etiqueta-calculadora-aislada_1308-60994.jpg)</center>
  
 
 ### Content
