@@ -1,7 +1,7 @@
 # Basic Calculator
 
 <p align="center">
-![image](https://img.freepik.com/vector-gratis/diseno-etiqueta-calculadora-aislada_1308-60994.jpg)
+<img src="https://img.freepik.com/vector-gratis/diseno-etiqueta-calculadora-aislada_1308-60994.jpg">
 </p> 
 
 ### Content
