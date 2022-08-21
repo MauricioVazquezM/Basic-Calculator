@@ -22,7 +22,7 @@
 
 ## How to use the graphical interface
 
-- 
+- The functionality of the graphical interface of the calculator is similar to that of any conventional calculator.
 
 ## Features
 
